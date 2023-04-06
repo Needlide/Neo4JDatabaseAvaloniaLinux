@@ -1,0 +1,9 @@
+﻿<Application x:Class="Neo4JDatabaseAvaloniaLinux.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Neo4JDatabaseAvaloniaLinux"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
